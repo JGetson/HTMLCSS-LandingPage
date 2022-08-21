@@ -203,12 +203,9 @@ section { display: flex; }
 
 }
 .full-banner-sidebar .btn.btn-default {
+  margin: 50px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  z-index: 1;
   
 }
-
-
-
-
-
-
-
